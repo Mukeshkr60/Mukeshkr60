@@ -19,7 +19,7 @@
 
 ### 📫 How to reach me:
 - Email: [krmukesh160@gmail.com](mailto:krmukesh160@gmail.com)
-- LinkedIn: [Mukesh Kumar][(https://www.linkedin.com/in/mukesh-kumar60/)]
+- LinkedIn: [Mukesh Kumar](https://www.linkedin.com/in/mukesh-kumar60/)
 - GitHub: [Mukeshkr60](https://github.com/Mukeshkr60)
 
 ### 😄 Pronouns:
