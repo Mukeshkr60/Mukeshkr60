@@ -1,8 +1,8 @@
 # 👋 Hi, I’m Mukesh Kumar (@Mukeshkr60)
 
 ### 👀 I’m interested in:
-- Full Stack Development (Java, JavaScript, MySQL, Spring  )
-- Software Engineer (Java, Data Structures)
+- Full Stack Development (Core Java, JavaScript, MySQL, Spring  )
+- Software Engineer (Java, OOPs, Data Structures)
 - Solving Data Structures and Algorithms problems
 - Building web apps and exploring new technologies
 
