@@ -26,7 +26,7 @@
 - He/Him
 
 ### ⚡ Fun fact:
-- I love playing Cricket and enjoy solving puzzles! 🧩
+- I love playing Cricket.
 
 
 <!---
