@@ -19,23 +19,10 @@
 const mukeshProfile = {
     title: "Full Stack Developer",
     location: "Code Paradise 🌴",
-    pronouns: "He/Him",
-    technologies: {
-        backend: {
-            java: ["Spring Boot", "Microservices", "Core Java"],
-            database: ["MySQL", "MongoDB", "PostgreSQL"],
-            tools: ["Postman", "Git", "Docker", "Maven"]
-        },
-        frontend: {
-            js: ["React", "Vue.js", "JavaScript"],
-            css: ["Bootstrap", "Tailwind", "Material-UI"],
-            html: ["HTML5", "Semantic UI"]
-        },
-        devOps: ["Docker", "Jenkins", "Git Actions"],
-        cloud: ["AWS", "Google Cloud"]
-    },
-    currentFocus: "Building scalable microservices",
+    workingOn: "Building scalable microservices",
     learning: ["System Design", "Cloud Architecture"],
+    askMeAbout: ["Web Dev", "Tech", "Coffee ☕"],
+    dailyRoutine: ["Code", "Coffee", "Debug", "Repeat"],
     funFact: "I speak fluent JavaScript and human languages!"
 };
 ```
@@ -127,6 +114,22 @@ const mukeshProfile = {
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Mukeshkr60&theme=nord&column=7" alt="GitHub Trophies">
 </div>
+
+
+## 💡 What I Do
+
+```sql
+SELECT 
+    'Full Stack Development' as ROLE,
+    'Problem Solving' as PASSION,
+    'Clean Code' as PRINCIPLE,
+    'Continuous Learning' as MINDSET
+FROM 
+    developer_life
+WHERE 
+    coffee_level > 80
+    AND bug_count = 0;
+```
 
 ## ⚡ Fun Facts
 - 🏏 Cricket enthusiast who debugs between matches
