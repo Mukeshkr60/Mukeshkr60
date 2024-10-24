@@ -18,13 +18,14 @@
 ```javascript
 const mukeshProfile = {
     title: "Full Stack Developer",
-    location: "Code Paradise 🌴",
-    workingOn: "Building scalable microservices",
-    learning: ["System Design", "Cloud Architecture"],
-    askMeAbout: ["Web Dev", "Tech", "Coffee ☕"],
-    dailyRoutine: ["Code", "Coffee", "Debug", "Repeat"],
-    funFact: "I speak fluent Java, JavaScript and human languages!"
+    location: "Delhi, India 🌍",
+    workingOn: "Building scalable applications with Spring Boot and Microservices",
+    learning: ["Data Structures and Algorithms", "Spring Boot", "System Design", "Advanced Java Concepts", "Cloud Architecture"],
+    askMeAbout: ["Web Development", "Java", "Aptitude Problems", "Tech Innovations", "Coffee ☕"],
+    dailyRoutine: ["Code", "Learn", "Debug", "Solve DSA problems", "Repeat"],
+    funFact: "I debug with coffee ☕ and have solved over 500 DSA problems!"
 };
+
 ```
 
 ## 🚀 Skills & Technologies
