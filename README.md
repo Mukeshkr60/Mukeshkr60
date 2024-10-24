@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Mukesh Kumar (@Mukeshkr60)
-
 <div align="center">
-  <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1651780155240/7SZuYu_oq.gif?auto=format,compress&gif-q=60&format=webm" alt="MasterHead" width="800"/>
+  <img width="900" height="250" src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif" alt="Developer Activity Banner"/>
 </div>
 
 <div align="center">
