@@ -44,15 +44,16 @@ const mukesh = {
 
 ## 🔗 Coding Profiles
 <p align="left">
+  <a href="https://www.naukri.com/code360/profile/Mukesh_kr_60" target="_blank">
+    <img src="https://img.shields.io/badge/-Code360-0077B5?style=for-the-badge&logo=Naukri&logoColor=white" alt="Code360"/>
+</a>
   <a href="https://leetcode.com/krmukesh160" target="_blank">
     <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode"/>
   </a>
   <a href="https://www.hackerrank.com/krmukesh160" target="_blank">
     <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank"/>
   </a>
-  <a href="https://www.codechef.com/users/Mukeshkr60" target="_blank">
-    <img src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" alt="CodeChef"/>
-  </a>
+ 
 </p>
 
 ## 🎯 What I'm Up To
