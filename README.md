@@ -1,7 +1,7 @@
 <div align="center">
   <img width="100%" height="250" src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif" alt="Developer Activity Banner">
-
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+Developer;Software+Engineer;Problem+Solver;Open+Source+Enthusiast)](https://git.io/typing-svg)
+ 
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=635&lines=Full+Stack+Developer;Software+Engineer;Problem+Solver;Open+Source+Enthusiast)](https://git.io/typing-svg)
 </div>
 
 # 👋 Hello World! I'm Mukesh Kumar
