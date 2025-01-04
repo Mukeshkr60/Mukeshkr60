@@ -136,7 +136,7 @@ WHERE
 - 🏏 Cricket enthusiast who debugs between matches
 - 🎵 Codes with music, debugs with coffee
 - 🌱 Always learning, forever growing
-- 💡 Believes in "Talk is cheap, show me the code"
+- 💡 Believes in "Talk is cheap, show me the codes"
 
 ---
 
